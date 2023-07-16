@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  occupied: false
+  type: 
+  company_name: MyString
+  designation: MyString
+  salary: MyString
+
+two:
+  user: two
+  occupied: false
+  type: 
+  company_name: MyString
+  designation: MyString
+  salary: MyString

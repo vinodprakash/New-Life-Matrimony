@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  dob: 2023-07-16
+  time_of_birth: 2023-07-16 14:55:14
+  place_of_birth: MyString
+  zodiac: MyString
+  star: MyString
+
+two:
+  user: two
+  dob: 2023-07-16
+  time_of_birth: 2023-07-16 14:55:14
+  place_of_birth: MyString
+  zodiac: MyString
+  star: MyString
